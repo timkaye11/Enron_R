@@ -18,4 +18,3 @@ A heatmap based on the Heapmap Visualization on [flowingdata](www.flowingdata.co
 
 The line `source(calendarCustom.R)` refers to the [flowingdata](www.flowingdata.com) code, and is also in this repo. 
 
----
