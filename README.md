@@ -18,3 +18,8 @@ A heatmap based on the Heapmap Visualization on [flowingdata](www.flowingdata.co
 
 The line `source(calendarCustom.R)` refers to the [flowingdata](www.flowingdata.com) code, and is also in this repo. 
 
+The figure below is an example of a heatmap, based on a mailbox chosen at random. In this case, the sender is Delainy, and the time frame is on the figure. The heatmap represents the number of emails sent per day by Delainy, and the darker spots represent a larger amount of emails sent in that day. Each column represents a week, and each chunck is equal to a month. 
+
+![alt name](/Users/timkaye/Documents/Spring_2014/Math_Research/Code/Enron_R/heatmapDelainy.jpeg "Heatmap example")
+
+---
