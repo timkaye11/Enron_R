@@ -43,7 +43,7 @@ for (i in 1:numHeatMaps) {
   }
   
   startDate <- strptime(res$Date[1], format = "%Y-%m-%d")
-  endDate <- strptime(res$Date[length(res)], format="%Y-%m-%d")
+  endDate <- strptime(res$Date[length(res$Date)], format="%Y-%m-%d")
   text(0, 8, paste("From", startDate, "to", endDate), pos=4, cex=0.7)
 }
 
