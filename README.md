@@ -20,6 +20,6 @@ The line `source(calendarCustom.R)` refers to the [flowingdata](www.flowingdata.
 
 The figure below is an example of a heatmap, based on a mailbox chosen at random. In this case, the sender is Delainy, and the time frame is on the figure. The heatmap represents the number of emails sent per day by Delainy, and the darker spots represent a larger amount of emails sent in that day. Each column represents a week, and each chunck is equal to a month. 
 
-![alt name](/http://tinypic.com/r/ay7jgo/8 "Heatmap example")
+![alt name](http://tinypic.com/r/ay7jgo/8 "Heatmap example")
 
 ---
